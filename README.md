@@ -7,7 +7,7 @@ Aplicativo que permite o cadastro de animais acidentados, permitindo também det
 
 Be The Hero é um projeto criado pela equipe Rocketseat na SemanaOmniStack. Open Source.
 
-<ul>O projeto é desenvolvido para Web, e para Mobile, e como banco de dados SQlite.</ul>
+<ul>O projeto é desenvolvido para Web, Mobile, e tem como banco de dados o SQlite.</ul>
 <ul>Conta com tecnologias como:</ul>
 <ul>• <b>ReactNative</b> = <b><i>Mobile</b></i></ul>
 <ul>• <b>React</b> = <b><i>Frontend</b></i></ul>
