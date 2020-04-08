@@ -11,7 +11,7 @@ Be The Hero é um projeto criado pela equipe Rocketseat na SemanaOmniStack, onde
 <ul>Conta com tecnologias como:</ul>
 <ul>• <b>ReactNative</b> = <b><i>Mobile</b></i></ul>
 <ul>• <b>React</b> = <b><i>Frontend</b></i></ul>
-<ul>• <b>ReactJS</b> = <b><i>Backand</b></i></ul>
+<ul>• <b>ReactJS</b> = <b><i>Backend</b></i></ul>
 <ul>• <b>Expo</b>
 <ul>-</ul>
 <b>Linguagens do projeto:</b> JavaScript, CSS, HTML
