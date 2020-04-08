@@ -1,9 +1,9 @@
 # Be-The-Hero
+@SauloCatunda
 
 <img src="https://github.com/saulocatunda/be-the-hero/blob/master/mobile/src/assets/logo@3x.png?raw=true">
 
-Aplicativo que permitirá que ONG'S ou Protetores cadastrem casos de animais que precisam de ajuda, e então divulgar por e-mail ou whatsapp.
-Também permitira informar os detalhes como valor e procedimento necessário para o animal, para que então, as pessoas possam ajudar.
+Aplicativo que permite o cadastro de animais acidentados, permitindo também detalhar o caso e o valor necessário para que se possa ajudar o animal. Também é possível receber e enviar notificações de novos casos direto no whatsapp ou e-mail.
 
 Be The Hero é um projeto criado pela equipe Rocketseat na SemanaOmniStack, onde nós, desenvolvedores colocamos a mão na massa e o desenvolvemos.
 
