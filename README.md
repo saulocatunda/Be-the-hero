@@ -5,7 +5,7 @@
 
 Aplicativo que permite o cadastro de animais acidentados, permitindo também detalhar o caso e o valor necessário para que se possa ajudar o animal. Também é possível receber e enviar notificações de novos casos direto no whatsapp ou e-mail.
 
-Be The Hero é um projeto criado pela equipe Rocketseat na SemanaOmniStack, onde nós, desenvolvedores colocamos a mão na massa e o desenvolvemos.
+Be The Hero é um projeto criado pela equipe Rocketseat na SemanaOmniStack. Open Source.
 
 <ul>O projeto é desenvolvido para Web, e para Mobile, e como banco de dados SQlite.</ul>
 <ul>Conta com tecnologias como:</ul>
